@@ -1,0 +1,7 @@
+jsonschema==3.0.1
+tweepy==3.8.0
+unicodecsv==0.14.1
+urllib3==1.24.1
+requests==2.14.2
+click==7.0
+line-bot-sdk==1.5.0
